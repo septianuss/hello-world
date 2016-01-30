@@ -1,3 +1,5 @@
-# hello-world
-Just Another Repository
-jUST JOIN GII 
+Hello World 
+
+Hi Hoomans!
+
+Septianus here , Feel Free to Kill Me
